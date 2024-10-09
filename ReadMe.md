@@ -1,4 +1,6 @@
+<img href = "bar.gif">
 # 💫 About Me:
+<h3>Hey I am Aryan 👋</h3>
 I am currently working on web development.<br>Looking forward to collaborate in frontend projects.<br>Currently I am learning ReactJS.
 
 
