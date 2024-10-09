@@ -1,4 +1,4 @@
-![bar](https://github.com/user-attachments/assets/97035151-62a8-4d30-870a-1e71230bc7f8 width="100")
+<img src = "https://github.com/AryanJadile/bar.gif" width="100")
 # 💫 About Me:
 
 
