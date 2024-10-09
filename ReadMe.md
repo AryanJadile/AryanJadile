@@ -1,4 +1,4 @@
-<img src = "https://github.com/AryanJadile/AryanJadile/blob/main/bar.gif" width="100")
+<img style="width:100%;height:3px;" src="./bar.gif" />
 # 💫 About Me:
 
 
