@@ -1,5 +1,7 @@
-<img href = "bar.gif">
+![bar](https://github.com/user-attachments/assets/97035151-62a8-4d30-870a-1e71230bc7f8)
 # 💫 About Me:
+
+
 <h3>Hey I am Aryan 👋</h3>
 I am currently working on web development.<br>Looking forward to collaborate in frontend projects.<br>Currently I am learning ReactJS.
 
